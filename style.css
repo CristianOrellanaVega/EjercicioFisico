@@ -1,0 +1,88 @@
+/* FUENTES FONT GOOGLE
+    font-family: 'Architects Daughter', cursive;
+
+    font-family: 'Playfair Display SC', serif;
+
+
+
+    PARA ENTRENAMIENTO-ONLINE
+
+        font-family: 'Architects Daughter', cursive;
+
+         font-family: 'Playfair Display SC', serif;
+*/ 
+
+
+/* 
+ COLORES 
+
+
+
+
+
+*/
+
+
+
+/* NAV 
+
+*/
+
+.navbar-brand{
+    font-family: 'Architects Daughter', cursive;
+
+    font-family: 'Playfair Display SC', serif;
+    
+}
+
+    
+/*NAVEGADOR PRINCIPAL*/
+
+
+.slide{
+    margin-top: 20px;
+    position:relative;
+}
+
+.h2{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Architects Daughter', cursive;
+
+    font-family: 'Playfair Display SC', serif;
+
+}
+
+
+body{
+
+    margin-bottom: 10rem;
+}
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+#rutinas{
+    color: red;
+}
+
+#agenda{
+    color: red;
+}
+
+.btn-success{
+    height: 60px;
+}
+
+.h1{
+    font-family: 'Architects Daughter', cursive;
+}
+
+#registrarse{
+    font-family: 'Playfair Display SC', serif;
+    font-size: large;
+}
